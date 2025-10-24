@@ -21,8 +21,6 @@ The project was designed using a **snowflake schema**, incorporating one central
 
 The Date table was created in Power BI to enable time-based analysis by year, quarter, month, and day. This structure provided the HR team with the flexibility to drill down across multiple levels of context — the who, what, when, where, and why behind every metric.
 
-![Atlas Labs Data Model](https://github.com/user-attachments/assets/placeholder-for-atlaslabs-model.png)
-
 This model allowed for seamless integration of demographic, performance, and satisfaction data, providing the foundation for deeper analytics on employee behavior and organizational trends.
 
 ---
@@ -38,7 +36,8 @@ Through this project, I uncovered several key insights into Atlas Labs’ workfo
 
 This Power BI dashboard enables the HR team to easily navigate key workforce metrics, monitor hiring and diversity trends, and analyze employee satisfaction and attrition in one interactive report. It serves as a comprehensive HR analytics solution that turns raw data into meaningful insights for leadership decision-making.
 
-- **Power BI Link:** [Atlas Labs HR Dashboard](https://app.powerbi.com/view?r=your-link-here)
+📄 [View Power BI Dashboard (PDF)](Atlas%20Labs/Atlas%20Labs%20HR%20Analytics.pdf)
+
 
 ---
 
