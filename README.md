@@ -6,7 +6,9 @@ I'm Deondre Brown, a Business Intelligence Data Anaylst with a background mostly
 
 ### Projects
 - **Atlas Labs HR Analytics** – HR Analytics dashboard analyzing key HR metrics like attrition, and total headcount  
-- **FIFA World Cup Dashboard** – Dashboard that results in EDA regarding the World Cup fromm years 1930-2018 
+- **FIFA World Cup Dashboard** – Dashboard that results in EDA regarding the World Cup fromm years 1930-2018
+
+Project dashboard files (PDF Format) can be found in their individual folders in my Github.
 ## 🛠️ Overall tools I have experience with
 
 - SQL (SAS PROC SQL)
