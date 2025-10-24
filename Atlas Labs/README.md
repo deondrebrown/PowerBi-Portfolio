@@ -36,7 +36,8 @@ Through this project, I uncovered several key insights into Atlas Labs’ workfo
 
 This Power BI dashboard enables the HR team to easily navigate key workforce metrics, monitor hiring and diversity trends, and analyze employee satisfaction and attrition in one interactive report. It serves as a comprehensive HR analytics solution that turns raw data into meaningful insights for leadership decision-making.
 
-📄 [View Power BI Dashboard (PDF)](Atlas%20Labs/Atlas%20Labs%20HR%20Analytics.pdf)
+📄 [View Power BI Dashboard (PDF)](Atlas%20Labs%20HR%20Analytics.pdf)
+
 
 
 ---
