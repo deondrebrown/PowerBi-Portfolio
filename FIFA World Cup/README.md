@@ -49,7 +49,7 @@ Through this Power BI analysis, I was able to uncover several interesting insigh
 
 This Power BI dashboard delivers an engaging visual story of football history—providing an at-a-glance look at performance evolution, country dominance, and the impact of hosting on outcomes. It serves as a strong example of exploratory data analysis through interactive visuals.
 
-📄 **Power BI PDF Dashboard:** [View Full Report (PDF)](FIFA%20World%20Cup/FIFA%20World%20Cup%20PDF.pdf)
+📄 **Power BI PDF Dashboard:** [View Full Report (PDF)](FIFA%20World%20Cup%20PDF.pdf)
 
 ---
 
